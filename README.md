@@ -1,21 +1,11 @@
-<!--
-**sai11121209/sai11121209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm [sai11121209](https://github.com/sai11121209) 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on  my project [TDR_Wait_Time_Analysis_WebApp](https://github.com/sai11121209/TDR_Wait_Time_Analysis_WebApp)
+- 🌱 I’m currently learning Django & AWS
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sai11121209&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sai11121209&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai11121209" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai11121209&include_all_commits=true&theme=tokyonight" />
 </a>
